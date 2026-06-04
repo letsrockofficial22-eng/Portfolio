@@ -40,7 +40,7 @@ export default function Header() {
           <a
             data-hover
             data-label="IG"
-            href="https://www.instagram.com/_tamb0/"
+            href="https://www.instagram.com/_tamb0?igsh=amZ5cHprbm13bXE3"
             target="_blank"
             rel="noreferrer"
             className="rounded-full border border-white/10 px-4 py-2 text-[10px] tracking-[0.25em] text-ink/80 transition hover:border-accent hover:text-accent"
