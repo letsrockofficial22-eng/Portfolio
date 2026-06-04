@@ -56,10 +56,10 @@ export default function Footer() {
             <a
               data-hover
               data-label="MAIL"
-              href="mailto:hello@tamimahmed.dev"
+              href="mailto:letsrockofficial@gmail.com"
               className="mt-3 block break-all text-sm text-ink transition hover:text-accent md:text-base"
             >
-              hello@tamimahmed.dev
+              letsrockofficial@gmail.com
             </a>
           </div>
 
